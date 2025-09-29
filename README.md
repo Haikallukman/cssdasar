@@ -77,4 +77,4 @@ File: `lab2_css_dasar.html`
 ---
 
 ## Dokumentasi
-(Sertakan screenshot hasil percobaan di browser)
+![output](css.jpg)
